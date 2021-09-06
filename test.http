@@ -1,0 +1,22 @@
+GET http://localhost:8080/level01
+content-type: application/json
+role: ADMIN
+
+
+###
+GET http://localhost:8080/level01
+content-type: application/json
+role: USER
+
+
+
+###
+GET http://localhost:8080/level02
+content-type: application/json
+role: ADMIN
+
+
+###
+GET http://localhost:8080/level02
+content-type: application/json
+role: USER
